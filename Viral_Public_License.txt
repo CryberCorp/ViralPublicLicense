@@ -1,0 +1,50 @@
+
+Viral Public License (VPL)
+Copyleft (ɔ) All Rights Reversed
+
+This WORK is relinquished of all ownership, attribution, and copyright.
+Redistribution or use, with or without modification, is permitted without
+restriction under the following conditions:
+
+1. License Retention: Redistributions of this WORK, or any work that
+   incorporates any part of this WORK through copying, dependency, linkage,
+   or any other form of derivation or combination, must retain this license
+   in its entirety unless it is combined with another work under a compatible
+   open source license. In such cases, the terms of the compatible license
+   may apply to the combined work, provided the part of the WORK under VPL
+   remains under VPL.
+
+2. No License Modification: This license may not be removed or altered from
+   any redistributed or derived work, except as allowed by the terms of a
+   compatible open source license when combined with such work.
+
+3. No Additional Restrictions: No additional restrictions or conditions may
+   be applied to the parts of the WORK covered by this license.
+
+4. Source Code Distribution: Any redistribution of this WORK, or any derived
+   work, must include the complete source code for the parts of the work
+   covered by this license.
+
+5. Disclaimer of Warranty: This WORK is provided "as is," without any
+   warranty, express or implied, including but not limited to the warranties
+   of merchantability, fitness for a particular purpose, and non-infringement.
+   In no event shall the authors or copyright holders be liable for any claim,
+   damages, or other liability, whether in an action of contract, tort, or
+   otherwise, arising from, out of, or in connection with the WORK or the use
+   or other dealings in the WORK.
+
+6. Compatibility with Other Licenses: If any part of a derived work uses code
+   under another compatible open source license, that derived work may be
+   distributed under the terms of that other license, provided that the part
+   of the WORK under VPL remains under VPL. Compatible licenses are those
+   approved by the Open Source Initiative (OSI) or Free Software Foundation
+   (FSF).
+
+7. Credit Preservation: While attribution is not required, it is recommended
+   to credit the original authors for their contribution.
+
+8. Global Compatibility: This license is intended to be globally compatible
+   with local and international laws. If any provision of this license is
+   held to be invalid or unenforceable under applicable law, that provision
+   shall be interpreted to achieve the maximum extent possible, and the
+   remaining provisions shall remain in full force and effect.
