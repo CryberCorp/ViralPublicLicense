@@ -41,5 +41,3 @@ To make the Viral Public License (VPL) valid in a project, follow these steps to
 4. **Source Code Distribution**: Ensure that any redistribution of your project includes the complete source code and retains the VPL.
 
 5. **Credit Preservation**: While not required, it is recommended to credit the original authors in a `CREDITS.txt` or a similar file.
-
-By following these steps, you ensure that the VPL is properly integrated into your project, making it valid and clear to all users and contributors.
